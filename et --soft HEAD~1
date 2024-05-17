@@ -1,0 +1,41 @@
+[33mcommit b927699159725e084207cbf031e7e3c4157e86f0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Amy Richardson <105483927+amylour@users.noreply.github.com>
+Date:   Fri May 17 15:20:38 2024 +0000
+
+    move: gitignore
+
+[33mcommit 784f54ada9a21875e2accac2c1f9a20b477fa815[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Amy Richardson <105483927+amylour@users.noreply.github.com>
+Date:   Fri May 10 12:45:14 2024 +0000
+
+    setup: openai api key, prompt
+
+[33mcommit 84edc6f4eb33b9520ba27ea1fd16ec7f6049c964[m
+Author: Amy Richardson <105483927+amylour@users.noreply.github.com>
+Date:   Fri May 10 12:44:58 2024 +0000
+
+    add: requirements
+
+[33mcommit 28d8b65972131d604d70e213a7657f04c4a49ca0[m
+Author: Amy Richardson <105483927+amylour@users.noreply.github.com>
+Date:   Fri May 10 12:12:15 2024 +0000
+
+    add: 02exercise files
+
+[33mcommit 89dbe1352791b474c21cc43fab7440a6ffc90dec[m
+Author: Amy Richardson <105483927+amylour@users.noreply.github.com>
+Date:   Fri May 10 12:11:42 2024 +0000
+
+    create: gitignore file
+
+[33mcommit dfb7c4d3a0adcd429eb01189339058b2eee7385d[m
+Author: Amy Richardson <105483927+amylour@users.noreply.github.com>
+Date:   Fri May 10 12:11:18 2024 +0000
+
+    add:README content from exercise files
+
+[33mcommit 6f895f52a1e6f5f67e165b2ac12df145fbb47a57[m
+Author: Amy Richardson <105483927+amylour@users.noreply.github.com>
+Date:   Fri May 10 11:09:27 2024 +0100
+
+    Initial commit
